@@ -1,0 +1,1 @@
+//Command line argument se input a number uska next prime number print krega
